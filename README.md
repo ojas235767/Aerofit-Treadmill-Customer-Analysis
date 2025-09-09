@@ -1,36 +1,36 @@
-🏃‍♂️ AeroFit Treadmill Customer Analysis – README.md
-📌 Project Overview
+#  🏃‍♂️ AeroFit Treadmill Customer Analysis 
+#  📌 Project Overview
 
-This project explores the AeroFit treadmill dataset to understand customer demographics and buying behavior. The aim was to identify which customer segments prefer specific treadmill models and recommend targeted marketing strategies.
+### This project explores the AeroFit treadmill dataset to understand customer demographics and buying behavior. The aim was to identify which customer segments prefer specific treadmill models and recommend targeted marketing strategies.
 
-🎯 Objectives
+# 🎯 Objectives
 
-Perform exploratory data analysis (EDA) on AeroFit customer dataset.
+### Perform exploratory data analysis (EDA) on AeroFit customer dataset.
 
-Identify demographic and income patterns for different treadmill models.
+### Identify demographic and income patterns for different treadmill models.
 
-Provide insights to improve product targeting and sales strategy.
+### Provide insights to improve product targeting and sales strategy.
 
-🛠️ Tools & Libraries
+# 🛠️ Tools & Libraries
 
-Google Colaboratory
+### Google Colaboratory
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+### Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Data Cleaning & Exploratory Data Analysis (EDA)
+### Data Cleaning & Exploratory Data Analysis (EDA)
 
-🔍 Key Insights
+# 🔍 Key Insights
 
-Higher-income customers tend to prefer premium treadmill models.
+### Higher-income customers tend to prefer premium treadmill models.
 
-Younger customers and moderate-income groups prefer mid-range models.
+### Younger customers and moderate-income groups prefer mid-range models.
 
-Age, income, and usage purpose (fitness vs. professional) strongly influence treadmill choice.
+### Age, income, and usage purpose (fitness vs. professional) strongly influence treadmill choice.
 
-💡 Recommendations
+# 💡 Recommendations
 
-Target premium models toward high-income professionals.
+### Target premium models toward high-income professionals.
 
-Market mid-range models toward younger customers and fitness enthusiasts.
+### Market mid-range models toward younger customers and fitness enthusiasts.
 
-Create personalized campaigns focusing on age and income segments.
+### Create personalized campaigns focusing on age and income segments.
